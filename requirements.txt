@@ -1,0 +1,4 @@
+Streamlit
+speech recognition
+pyttsx3
+pywhatkit
